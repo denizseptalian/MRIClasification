@@ -1,7 +1,8 @@
-Project Description
+## Project Description
 This project applies an ensemble learning approach using EfficientNetV2, Xception, and ResNet50 to classify brain tumors based on MRI images. It is designed to enhance accuracy and robustness in detecting tumor types, supporting medical diagnostics and research.
-(Brain Tumor Clasification.png)
-Key Features:
+![Demo] (Brain Tumor Clasification.png)
+
+## Key Features:
 - Ensemble Learning combining EfficientNetV2, Xception, and ResNet50
 - High-accuracy classification for brain tumor detection
 - Custom Dataset Support for improved generalization
