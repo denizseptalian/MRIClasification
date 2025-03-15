@@ -1,5 +1,5 @@
 ## Project Description
-This project applies an ensemble learning approach using EfficientNetV2, Xception, and ResNet50 to classify brain tumors based on MRI images. It is designed to enhance accuracy and robustness in detecting tumor types, supporting medical diagnostics and research.
+This project applies an ensemble learning approach using EfficientNetV2, Xception, and ResNet50 to classify brain tumors based on MRI images, enhancing accuracy and robustness in detecting tumor types for medical diagnostics and research. To improve interpretability, Grad-CAM (Gradient-weighted Class Activation Mapping) is integrated, allowing visualization of important regions in MRI images that influence the model’s predictions, helping medical professionals understand and validate AI-based decisions.
 ![Demo](BrainTumorClasification.png)  
 
 ## Key Features:
